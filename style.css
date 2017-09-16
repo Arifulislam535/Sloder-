@@ -1,0 +1,44 @@
+body { 
+	margin: 5px;
+    background: #4db799;
+
+
+
+}
+h1{
+	font-style: italic;
+	font-size: 40px;
+	color: #ef5d02;
+
+}
+h3{
+	font-style: normal;
+	color: black;
+	text-decoration: underline;
+}
+
+li{
+	font-size: oblique;
+
+}
+li {
+	display: inline;
+	font-size: 20px;
+	font-weight: bold;
+	
+	color: white;
+	margin-right: 50px;
+	font-style: normal;    
+
+
+}
+
+ul{
+	margin: auto;
+	text-align: center;
+	margin-top: 20px; 
+}
+
+img{
+	marker-mid: 50px;
+}
